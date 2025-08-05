@@ -1,0 +1,14 @@
+tensorflow==2.12.0
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow<10
+matplotlib
+seaborn
+streamlit
+scikit-image
+keras-tuner
+kagglehub
+tqdm
+plotly
