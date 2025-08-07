@@ -1,1 +1,0 @@
-# chest-X-ray-for-medical-diagnosis
